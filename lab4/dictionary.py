@@ -1,0 +1,1 @@
+dict = {"Apple":"Macbook","Samsung":"Android"}
